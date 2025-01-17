@@ -1,11 +1,18 @@
 .gradle
+<<<<<<< HEAD
 lab2/build/
+=======
+build/
+>>>>>>> 623565c (Complete initial setup)
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 623565c (Complete initial setup)
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -40,7 +47,11 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 ### Log4j ###
 logs/
+=======
+.DS_Store
+>>>>>>> 623565c (Complete initial setup)
